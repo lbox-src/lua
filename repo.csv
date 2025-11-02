@@ -14,3 +14,4 @@ Sniper Rifle Damage;See the sniper rifle's damage;1.0.0;https://raw.githubuserco
 Transparent Chams;Chams but with transparency;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/transparent%20chams.lua
 Med Range;See Medic's Healing/Stop Heal Range;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/med%20range.lua
 Laggy Animations;Uses fake lag value to lag your animation;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/laggy%20animations.lua
+Runner Helper;LUA Runner Helper to run LUAs externally;1.1.0;https://raw.githubusercontent.com/uosq/lbox-lua-external/refs/heads/main/runner-helper.lua
