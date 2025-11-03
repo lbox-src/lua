@@ -8,3 +8,10 @@ Medieval Camera;Use Medieval mode's thirdperson camera;1.0.0;https://raw.githubu
 Smooth Dash;Makes your dash smooth;1.0.0;https://raw.githubusercontent.com/uosq/smooth-dash/refs/heads/main/main.lua
 Navet's Projectile Aimbot;Custom projectile aimbot;10.0.0;https://github.com/uosq/lbox-projectile-aimbot/releases/download/v10/projaimbot.lua
 Radar;Custom radar;1.0.0;https://github.com/uosq/lbox-radar/releases/download/v1/radar.lua
+Auto Sticky;Auto Stickies with Delay;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/auto%20sticky%20delay.lua
+Sakura Rain;Rain cherry blossom petals;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/sakura.lua
+Sniper Rifle Damage;See the sniper rifle's damage;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/sniper%20rifle%20dmg.lua
+Transparent Chams;Chams but with transparency;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/transparent%20chams.lua
+Med Range;See Medic's Healing/Stop Heal Range;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/med%20range.lua
+Laggy Animations;Uses fake lag value to lag your animation;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/laggy%20animations.lua
+Runner Helper;LUA Runner Helper to run LUAs externally;1.1.0;https://raw.githubusercontent.com/uosq/lbox-lua-external/refs/heads/main/runner-helper.lua
