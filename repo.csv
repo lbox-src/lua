@@ -21,3 +21,6 @@ Outlined ViewModel;Makes viewmodel have a outline;1.0.0;https://raw.githubuserco
 Sydney Extinguisher;Shoot teammates on fire;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/sydney%20extinguisher.lua
 Thirdperson Offset;Offsets thirdperson camera;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/thirdperson%20offset.lua
 Auto Holiday Punch;Make people laugh;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/auto%20holiday%20punch.lua
+Priority Warning;Warns when someone with priority joins and leaves;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/player%20warning.lua
+Sticky Radius;Draws circle with stickybomb's radius;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/sticky%20range.lua
+Splash Radius;Draws splash damage radius on a rocket;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/splash%20radius.lua
