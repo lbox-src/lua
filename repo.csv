@@ -1,7 +1,7 @@
 name;description;version;url
 LNX's utility library;A collection of utility functions for Lmaobox.;1.0.0;https://github.com/lnx00/Lmaobox-Library/releases/download/v1.00.0/lnxLib.lua
 TimMenu utility library;Terminator's Immediate-Mode Menu for Lmaobox.;1.8.4;https://github.com/titaniummachine1/TimMenu/releases/download/v1.8.4/TimMenu.lua
-Changelog Viewer;View Lmaobox's changelog;1.0.0;https://github.com/uosq/lbox-changelog-show/releases/download/v1/changelog-viewer.lua
+Changelog Viewer;View Lmaobox's changelog;1.0.0;https://raw.githubusercontent.com/uosq/lbox-changelog-show/refs/heads/main/src/main.lua
 Auto Queue;Automatically queue;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/auto%20queue.lua
 Gradient backtrack;Make your backtrack have cool colors;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/gradient%20backtrack.lua
 Snow;Make snow appear on your screen (2D);1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/snow.lua
