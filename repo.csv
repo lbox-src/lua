@@ -26,4 +26,4 @@ Priority Warning;Warns when someone with priority joins and leaves;1.0.0;https:/
 Sticky Radius;Draws circle with stickybomb's radius;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/sticky%20range.lua
 Splash Radius;Draws splash damage radius on a rocket;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/splash%20radius.lua
 Glow;Custom glow;1.0.0;https://github.com/uosq/lmaobox-luas/releases/download/store/glow.lua
-Controller Helper;1.0.0;https://github.com/uosq/lmaobox-luas/releases/download/store/controller-helper.lua
+Controller Helper;Flick 180 degrees in all directions;1.0.0;https://github.com/uosq/lmaobox-luas/releases/download/store/controller-helper.lua
