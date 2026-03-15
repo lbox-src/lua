@@ -1,34 +1,34 @@
 name;description;version;url
 Changelog Viewer;View Lmaobox's changelog;1.0.0;https://github.com/uosq/lbox-changelog-show/releases/download/store/changelog-viewer.lua
-Projectile Trajectory;See trajectories;1.0.0;https://raw.githubusercontent.com/GoodEveningFellOff/Lmaobox-Scripts/refs/heads/main/Visualize%20Arc%20Trajectories/dev.lua
+Projectile Trajectory;See trajectories;1.0.0;https://raw.githubusercontent.com/GoodEveningFellOff/Lmaobox-Scripts/main/Visualize%20Arc%20Trajectories/dev.lua
 Auto Ammo Canteen by golden pan;MvM - Uses Ammo Canteens at ≤1 ammo;1.0.0;https://gitlab.com/golden_pan-lua/automatic-ammo-canteen-lua-tf2-mvm/-/raw/main/Canteener%20(MvM)%20-%20GP.lua
 GhostMoney by golden pan;MvM - Auto-Credits, Upgrades, Teleport & more;1.0.0;https://gitlab.com/golden_pan-lua/ghostmoney-lua-tf2-mvm/-/raw/main/GhostMoney%20(MvM)%20-%20GP.lua
 Navet's Projectile Aimbot;Custom projectile aimbot;11.0.0;https://github.com/uosq/lbox-projectile-aimbot/releases/download/v11/projaimbot.lua
-Gradient backtrack;Make your backtrack have cool colors;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/gradient%20backtrack.lua
-Snow;Make snow appear on your screen (2D);1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/snow.lua
-Sakura Rain;Rain cherry blossom petals;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/sakura.lua
+Gradient backtrack;Make your backtrack have cool colors;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/main/gradient%20backtrack.lua
+Snow;Make snow appear on your screen (2D);1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/main/snow.lua
+Sakura Rain;Rain cherry blossom petals;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/main/sakura.lua
 Medieval Camera;Use Medieval mode's thirdperson camera;1.0.0;https://github.com/uosq/lmaobox-luas/releases/download/store/medieval-camera.lua
 Smooth Dash;Makes your dash smooth;1.0.0;https://github.com/uosq/smooth-dash/releases/download/store/smooth-dash.lua
 Radar;Custom radar;1.0.0;https://github.com/uosq/lbox-radar/releases/download/v1/radar.lua
 Auto Queue;Automatically queue;1.0.0;https://github.com/uosq/lmaobox-luas/releases/download/store/auto-queue.lua
 Auto Trickstab;Automaticly Warps For Trickstabs;2.4.0;https://github.com/titaniummachine1/Auto_Trickstab/releases/download/v2.4.0/Auto.Trickstab.lua
-Auto Holiday Punch;Make people laugh;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/auto%20holiday%20punch.lua
+Auto Holiday Punch;Make people laugh;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/main/auto%20holiday%20punch.lua
 Auto Sticky;Auto Stickies with Delay;1.0.0;https://github.com/uosq/lmaobox-luas/releases/download/store/auto-sticky-delay.lua
-Spectate Unlocked;Spectate enemy players while dead;1.0.0;https://raw.githubusercontent.com/compuserscripts/6v6_lua/refs/heads/main/spectate.lua
-Sniper Rifle Damage;See the sniper rifle's damage;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/sniper%20rifle%20dmg.lua
-Sydney Extinguisher;Shoot teammates on fire;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/sydney%20extinguisher.lua
-Transparent Doors;Makes doors transparent;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/transparent%20doors.lua
-Transparent Chams;Chams but with transparency;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/transparent%20chams.lua
-Outlined ViewModel;Makes viewmodel have a outline;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/viewmodel%20outline.lua
+Spectate Unlocked;Spectate enemy players while dead;1.0.0;https://raw.githubusercontent.com/compuserscripts/6v6_lua/main/spectate.lua
+Sniper Rifle Damage;See the sniper rifle's damage;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/main/sniper%20rifle%20dmg.lua
+Sydney Extinguisher;Shoot teammates on fire;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/main/sydney%20extinguisher.lua
+Transparent Doors;Makes doors transparent;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/main/transparent%20doors.lua
+Transparent Chams;Chams but with transparency;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/main/transparent%20chams.lua
+Outlined ViewModel;Makes viewmodel have a outline;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/main/viewmodel%20outline.lua
 Glow;Custom glow effect;1.0.0;https://github.com/uosq/lmaobox-luas/releases/download/store/glow.lua
 Med Range;See Medic's Healing/Stop Heal Range;1.0.0;https://github.com/uosq/lmaobox-luas/releases/download/store/med-range.lua
-Laggy Animations;Uses Fake Lag value to lag your animation;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/laggy%20animations.lua
-Runner Helper;LUA Runner Helper to run LUAs externally;1.1.0;https://raw.githubusercontent.com/uosq/lbox-lua-external/refs/heads/main/runner-helper.lua
-Thirdperson Offset;Offsets thirdperson camera;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/thirdperson%20offset.lua
-Priority Warning;Warns when someone with priority joins and leaves;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/player%20warning.lua
-Splash Radius;Draws splash damage radius on a rocket;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/splash%20radius.lua
-Sticky Radius;Draws circle with stickybomb's radius;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/refs/heads/main/sticky%20range.lua
+Laggy Animations;Uses Fake Lag value to lag your animation;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/main/laggy%20animations.lua
+Runner Helper;LUA Runner Helper to run LUAs externally;1.1.0;https://raw.githubusercontent.com/uosq/lbox-lua-external/main/runner-helper.lua
+Thirdperson Offset;Offsets thirdperson camera;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/main/thirdperson%20offset.lua
+Priority Warning;Warns when someone with priority joins and leaves;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/main/player%20warning.lua
+Splash Radius;Draws splash damage radius on a rocket;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/main/splash%20radius.lua
+Sticky Radius;Draws circle with stickybomb's radius;1.0.0;https://raw.githubusercontent.com/uosq/lmaobox-luas/main/sticky%20range.lua
 Controller Helper;Flick 180 degrees in all directions;1.0.0;https://github.com/uosq/lmaobox-luas/releases/download/store/controller-helper.lua
 LNX's utility library;A collection of utility functions for Lmaobox;1.0.0;https://github.com/lnx00/Lmaobox-Library/releases/download/v1.00.0/lnxLib.lua
-TimMenu utility library;Terminator's Immediate-Mode Menu for Lmaobox;1.8.7;https://raw.githubusercontent.com/titaniummachine1/TimMenu/refs/heads/main/TimMenu.lua
+TimMenu utility library;Terminator's Immediate-Mode Menu for Lmaobox;1.8.7;https://raw.githubusercontent.com/titaniummachine1/TimMenu/main/TimMenu.lua
 Chat Spammer by golden pan;Customizable alternative to Lbox's chat spammer;1.0.0;https://gitlab.com/golden_pan-lua/chat-automation-lua-tf2/-/raw/main/Chat%20Automation%20-%20GP.lua
