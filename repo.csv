@@ -32,3 +32,4 @@ Controller Helper;Flick 180 degrees in all directions;1.0.0;https://github.com/u
 LNX's utility library;A collection of utility functions for Lmaobox;1.0.0;https://github.com/lnx00/Lmaobox-Library/releases/download/v1.00.0/lnxLib.lua
 TimMenu utility library;Terminator's Immediate-Mode Menu for Lmaobox;1.8.4;https://github.com/titaniummachine1/TimMenu/releases/download/v1.8.4/TimMenu.lua
 Chat Spammer by golden pan;Customizable alternative to Lbox's chat spammer;1.0.0;https://gitlab.com/golden_pan-lua/chat-automation-lua-tf2/-/raw/main/Chat%20Automation%20-%20GP.lua
+Sniper's Auto Charge by Apnix;Automatically charges sniper's focus mode while holding weapon;1.0.0;https://raw.githubusercontent.com/StanSmits/lboxlualist/refs/heads/master/autocharge.lua
