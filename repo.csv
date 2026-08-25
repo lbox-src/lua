@@ -33,3 +33,4 @@ LNX's utility library;A collection of utility functions for Lmaobox;1.0.0;https:
 TimMenu utility library;Terminator's Immediate-Mode Menu for Lmaobox;1.8.8;https://github.com/titaniummachine1/TimMenu/releases/download/v1.8.8/TimMenu.lua
 Chat Spammer by golden pan;Customizable alternative to Lbox's chat spammer;1.0.0;https://gitlab.com/golden_pan-lua/chat-automation-lua-tf2/-/raw/main/Chat%20Automation%20-%20GP.lua
 Sniper's Auto Charge by Apnix;Automatically charges sniper's focus mode while holding weapon;1.0.0;https://raw.githubusercontent.com/StanSmits/lboxlualist/refs/heads/master/autocharge.lua
+FOV Changer by Apnix;Allows to change the FOV past TF2's limits;1.0.0;https://raw.githubusercontent.com/StanSmits/lboxlualist/refs/heads/master/LmaoboxFovSlider.lua
